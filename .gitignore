@@ -1,3 +1,4 @@
 node_modules
 notes-api-webserver.pem 
 dev-alif_credentials.csv
+.DS_Store
